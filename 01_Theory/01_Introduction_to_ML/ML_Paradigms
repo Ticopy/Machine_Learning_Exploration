@@ -1,0 +1,24 @@
+Main types of ML paradigms :
+  - Supervised Learning
+  - Unsupervised Learning
+  - Reinforcement Learning
+
+SUPERVISED LEARNING :
+  From a learning set S = {(xi,yi)} i from 1 to m
+  find a underlying dependency :
+      * In the form of a function h as close as possible to f (target function) yi = f(xi)
+      * Or in the form of a probability distribution P(xi,yi)
+  in order to make predictions about future (unknown) x
+  
+  If f is a continuous function : Regression, Density estimation
+  If f is a discrete function : Classification
+  If f is a binary function (boolean) : Concept learning
+
+UNSUPERVISED LEARNING :
+  From the learning set S = {(xi)} i from 1 to m
+  find underlying regularities of the whole set
+  in order to summarize, suggesting regularities, understand...
+
+REINFORCEMENT LEARNING :
+  The learning data are a sequence of perceptions, actions and rewards (st,at,rt) t from 1 to infinity
+  with a reinforcement rt that can be related to past actions made far before t
