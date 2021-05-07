@@ -1,0 +1,23 @@
+Linear regression
+Least square solution
+MLE
+Likelihood
+log-likelihood
+Basis functions : Linear, Polynomial, Gaussian, RBF
+Ridge regularization
+Linear hypothesis : Learn from a dataset a decision boundary (a hyperplane) that separates pasitive labels from negative one
+Plugin principe
+Probalistic view
+logistic regression
+gradient ascent
+Support Vector Machines SVM Séparateurs à Vastes Marges ?
+0-1 loss
+hinge loss
+square loss
+logistic loss
+
+Critère de substitution
+Risque empirique régularisé
+Fonction de perte de substitution (surrogate function)
+SVM et méthodes à noyaux (kernel methods
+Radius-Basus function kernel (RBF)
