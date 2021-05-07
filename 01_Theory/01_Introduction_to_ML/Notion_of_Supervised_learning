@@ -1,0 +1,25 @@
+THREE INGREDIENTSThree ingredients :
+  - Choice of the hypotheses space H (Generally H ≠ F)
+  - Inductive criterion (How to evaluate a given hypothesis)
+  - Exploration of H
+  
+Notions and vocabulary :
+
+Most general hypothesis
+Most specific hypothesis
+Empirical Risk
+Cost of a prediction error : loss function
+Real Risk
+Bayes Risk : Erreur d'approximation (Biais)
+Variance : Erreur d'estimation
+Bias-Variance tradoff
+Underfitting/Overfitting
+Dataset
+Training set
+Validation set
+Test set
+Empirical risk minimization (ERM)
+Structural risk minimization (SRM)
+Regularization-based algorithms
+Realisable case and not realisable case
+Vapnik-Chervonenkis dimension
